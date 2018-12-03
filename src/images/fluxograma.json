@@ -1,0 +1,149 @@
+
+[
+
+{
+    "id": "1",
+    "pergunta": "Você está preparado(a) para o mês de Dezembro?",
+    "imagem": "/static/media/gif01.5b25c9b2.gif",
+    "sim": "2",
+    "nao": "11"
+},
+{
+    "id": "2",
+    "pergunta": "Já tem algum plano para 14/12",
+    "imagem": "/static/media/gif02.655b903f.gif",
+    "sim": "3",
+    "nao": "4"
+},
+{
+    "id": "3",
+    "pergunta": "Tem certeza que é algo muito importante?",
+    "imagem": "/static/media/gif03.5f60dd53.gif",
+    "sim": "17",
+    "nao": "5"
+},
+{
+    "id": "4",
+    "pergunta": "Você gosta de comer, beber e se divertir?",
+    "imagem": "/static/media/gif04.a444c3d2.gif",
+    "sim": "5",
+    "nao": "6"
+},
+{
+    "id": "5",
+    "pergunta": "Gosta de jogar Just Dance?",
+    "imagem": "/static/media/gif05.0bc5beb1.gif",
+    "sim": "8",
+    "nao": "7"
+},
+{
+    "id": "6",
+    "pergunta": "Você é um robô?",
+    "imagem": "/static/media/gif06.77181a95.gif",
+    "sim": "21",
+    "nao": "22"
+},
+{
+    "id": "7",
+    "pergunta": "E de jogar baralho?",
+    "imagem": "/static/media/gif07.e2fb0b47.gif",
+    "sim": "10",
+    "nao": "19"
+},
+{
+    "id": "8",
+    "pergunta": "Já arrumou a sua dupla?",
+    "imagem": "/static/media/gif08.acf8bc1a.gif",
+    "sim": "22",
+    "nao": "18"
+},
+{
+    "id": "9",
+    "pergunta": "Você sabe que o Especial do Roberto Carlos já está próximo?",
+    "imagem": "/static/media/gif09.7d8c82de.gif",
+    "sim": "13",
+    "nao": "12"
+},
+{
+    "id": "10",
+    "pergunta": "Já arrumou o seu parceiro?",
+    "imagem": "/static/media/gif10.3ea95f4f.gif",
+    "sim": "22",
+    "nao": "18"
+},
+{
+    "id": "11",
+    "pergunta": "Mas você sabe que já está tocando 'Então é Natal e o que você fez?' nas lojas?",
+    "imagem": "/static/media/gif11.a6f98d07.gif",
+    "sim": "14",
+    "nao": "9"
+},
+{
+    "id": "12",
+    "pergunta": "Sofrendo com a uva passa na comida?",
+    "imagem": "/static/media/gif12.cc7ccbbe.gif",
+    "sim": "13",
+    "nao": "20"
+},
+{
+    "id": "13",
+    "pergunta": "Está preparado psicologicamente para o clássico 'É pavê ou pacomê?'",
+    "imagem": "/static/media/gif13.b6f631d3.gif",
+    "sim": "15",
+    "nao": "20"
+},
+{
+    "id": "14",
+    "pergunta": "E sabe que faltam poucos dias para o Natal e o Ano Novo?",
+    "imagem": "/static/media/gif14.808ffb4b.gif",
+    "sim": "15",
+    "nao": "13"
+},
+{
+    "id": "15",
+    "pergunta": "Já está pensando na folga de fim de ano?",
+    "imagem": "/static/media/gif15.f54fd7d4.gif",
+    "sim": "16",
+    "nao": "20"
+},
+{
+    "id": "16",
+    "pergunta": "Nós iremos folgar nos dias 24/12, 25/12, 31/12 e 01/01",
+    "resposta": "E agora? Animou para Dezembro?",
+    "imagem": "/static/media/gif16.e3d1703b.gif",
+    "desabilitado": "disable",
+    "sim": "2",
+    "nao": "20"
+},
+{
+    "id": "17",
+    "pergunta": "Que pena! Talvez ano que vem!",
+    "resposta": "Mas caso mudei de ideia:"
+    
+},
+{
+    "id": "18",
+    "resposta": "Corre que ainda dá tempo!"
+    
+},
+{
+    "id": "19",
+    "pergunta": "Não se preocupe! Teremos outras atrações!"
+    
+},
+{
+    "id": "20",
+    "pergunta": "Você está errado. Recomece o Quiz!",
+    "sim": "1"
+},
+{
+    "id": "21",
+    "pergunta": "Então verifique esse CAPTCHA e recomece o Quiz.",
+    "sim": "1"
+},
+{
+    "id": "22",
+    "pergunta": "Dezembro vai ser TOP!",
+    "endereco": "Rua Antônio Domingues, 362 - Chácaras Tubalina - 19h30."
+}
+]
