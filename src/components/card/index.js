@@ -24,8 +24,8 @@ class Card extends Component {
     return (
 
       <div className="principalCard">
-        <Recaptcha sitekey='6Leyh34UAAAAABeLsjyCOApnzUXtnyA1sJg-3VUZ' render='explicit' type='image'/>
-        <div class="g-recaptcha" data-sitekey="6LdQgX4UAAAAAHyvFyGPi0ZtNW8_M6RhM6l0b5XF"></div>
+        <Recaptcha sitekey='6Ldein4UAAAAABvxJaytNRs2Iu03mmZKsrvqZNsI' render='explicit' type='image'/>
+        <div class="g-recaptcha" data-sitekey="6Ldein4UAAAAABvxJaytNRs2Iu03mmZKsrvqZNsI"></div>
         <div>
           <CardImage src={changes[findObjById(this.state.pageId)].imagem} />
           <CardText name={changes[findObjById(this.state.pageId)].pergunta}/>
